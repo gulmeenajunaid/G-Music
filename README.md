@@ -8,6 +8,10 @@ A music website which displays the current top 100 music albums based on the iTu
 - TypeScript
 - Bootstrap
 
+## Website Link:
+
+https://gulmeenajunaid.github.io/G-Music/
+
 ## Additional Feature:
 
 The **advanced search feature** allows the user to carry out advanced search using the music genre buttons and search query. Selecting any music genre will open all the albums in the selected genre and then user can type their search query to look for any album in that particular genre. This search can be carried out in the reverse order as well i.e. typing in the search query and then selecting a particular music genre.
