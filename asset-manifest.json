@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/G-Music/static/css/main.ce8bf0f7.css",
+    "main.js": "/G-Music/static/js/main.c897c342.js",
+    "index.html": "/G-Music/index.html",
+    "main.ce8bf0f7.css.map": "/G-Music/static/css/main.ce8bf0f7.css.map",
+    "main.c897c342.js.map": "/G-Music/static/js/main.c897c342.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce8bf0f7.css",
+    "static/js/main.c897c342.js"
+  ]
+}
